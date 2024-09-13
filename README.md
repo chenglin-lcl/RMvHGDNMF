@@ -1,0 +1,2 @@
+## matlab code
+Che H, Li C, Leung M F, et al. Robust Hypergraph Regularized Deep Non-Negative Matrix Factorization for Multi-View Clustering[J]. IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.
